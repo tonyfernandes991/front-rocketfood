@@ -33,7 +33,7 @@ no fronend foi utilizado a biblioteca React para facilitar o desenvolvimento e a
 
 ## Demostração / Acesso
 
-Acesse o Site
+Acesse o Site: https://foodexplorer84.netlify.app
 
 - Usuário admin: email: admin@email.com senha: 123456
 - Usuário consumidor: email: user@email.com senha: 123456
