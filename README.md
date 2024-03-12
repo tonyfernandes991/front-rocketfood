@@ -35,8 +35,8 @@ no fronend foi utilizado a biblioteca React para facilitar o desenvolvimento e a
 
 Acesse o Site
 
-Usuário admin: email: admin@email.com senha: 123456
-Usuário consumidor: email: user@email.com senha: 123456
+- Usuário admin: email: admin@email.com senha: 123456
+- Usuário consumidor: email: user@email.com senha: 123456
 
 ## Autor
 
